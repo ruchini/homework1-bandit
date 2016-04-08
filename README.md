@@ -88,5 +88,8 @@ level17
 
 ![17-18](https://cloud.githubusercontent.com/assets/10738845/14378518/fd32a648-fd92-11e5-839a-8526bfe24b72.PNG)
 
+conclusion
+This game is very important to learn about linux command.I played game using ubuntu 15.10.when play this game have to face some problems.first issues was kalani wifi is blocked the "ssh".so we have to use other internet connections to play game.Also when move to one level to other level first we have to log out from current level.This is a very good game to learn about linux command.
+
 
 

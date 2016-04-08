@@ -1,10 +1,14 @@
 # homework1-bandit
 bandit
-The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.This game is organized as levels.It is started from level0 and run up to level 26.I played the game by following introduction on site http://overthewire.org/wargames/bandit/. Used given command to find password for each levels.
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.This game is organized as levels.It is started from level0 and run up to level 26.I played the game by following introduction on site http://overthewire.org/wargames/bandit/. Used given command to find password for each levels.So this is the beginner over the wire game. I still consider myself a beginner at this sort of stuff, so I was proud when I was able to complete this without any help and following only quidelines of the official site.
+
+Bandit0 gives us a simple username and password to log in with SSH. One tip I would like to add, is that I made a variable in the shell “level” and set it equal to “bandit0”. So, with the ssh command $ ssh $bandit0@bandit.labs.overthewire.org we are able to log in to bandit0.
 
 level0
 
 ![level1](https://cloud.githubusercontent.com/assets/10738845/14377862/b3875b0e-fd8f-11e5-9f32-eac839c89957.PNG)
+
+Moving from bandit 0 to bandit 1 is quite easy. There is a readme file in bandit 0’s home directory. We can get the password with it.
 
 level1
 

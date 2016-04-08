@@ -1,6 +1,6 @@
 # homework1-bandit
 bandit
-The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.This game is organized as levels.It is started from level0 and run up to level 26.I played the game by following introduction on site http://overthewire.org/wargames/bandit/.used given command to find password for each levels.
+The Bandit wargame is aimed at absolute beginners. It will teach the basics needed to be able to play other wargames.This game is organized as levels.It is started from level0 and run up to level 26.I played the game by following introduction on site http://overthewire.org/wargames/bandit/. Used given command to find password for each levels.
 
 level0
 
